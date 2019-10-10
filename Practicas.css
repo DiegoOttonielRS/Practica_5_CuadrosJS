@@ -1,0 +1,8 @@
+.cuadrito{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	margin-left: 30px;
+	display: inline-block; 
+	
+}
